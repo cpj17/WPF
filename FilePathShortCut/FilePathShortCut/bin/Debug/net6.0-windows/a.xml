@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <t1>
+     <name>p1</name>
+     <ttl>10</ttl>
+     <current>6</current>
+  </t1>
+  <t1>
+     <name>p2</name>
+     <ttl>15</ttl>
+     <current>8</current>
+  </t1>
+  <t1>
+     <name>p3</name>
+     <ttl>12</ttl>
+     <current>3</current>
+  </t1>
+</NewDataSet>
